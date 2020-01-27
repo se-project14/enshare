@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F2016DA7</color>
+    <color name="colorPrimaryDark">#054361</color>
+    <color name="colorSelection">#48AEDD</color>
+    <color name="cloudSelecting">#AA6200EE</color>
+    <color name="colorAccent">#F37033</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>

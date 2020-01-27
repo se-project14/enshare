@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Enshare</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sort_by_date">Sort by Date</string>
+    <string name="action_sort_by_location">Sort by Location</string>
+    <string name="menu_home">EnShare</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_cloud">Cloud</string>
+
+    <string name="share">Share</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_home_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_gallery_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_slideshow_second">Hello HomeSecondFragment. Arg: %1$s</string>
+
+<!--    Strings for settings Page-->
+    <string name="turn">Turn On</string>
+    <string name="turn_summary">Please select this option if you want to use the app</string>
+    <string name="anonymus">Anonymous</string>
+    <string name="anonymous">anonymus</string>
+    <string name="anonymus_summary">You can manage wether you want to show your name or not.</string>
+    <string name="name">User Name</string>
+    <string name="username">name</string>
+    <string name="name_summary">Set user name</string>
+    <string name="share_all_picture">Share All Pictures</string>
+    <string name="share_all_picture_summary">If you enable this option, all of your pictures will be shared to your encounters</string>
+    <string name="show_thumbnail">Show Thumbnails</string>
+    <string name="show_thumbnail_summary">You can manage whether you want to show the profile thumbnails or not</string>
+    <string name="no_of_image">Images</string>
+    <string name="no_of_image_summary">The total number of images you shared via encounters</string>
+    <string name="no_of_upload">Uploads</string>
+    <string name="no_of_upload_summary">The total number of images you uploaded to the cloud</string>
+    <string name="default_page_title">Sharing Options</string>
+    <string name="default_page_dialog_title">Select a View</string>
+    <string name="default_page_default_value">Person A has shared N photos</string>
+    <string name="default_page_default_value_summary">Person A has shared N photos</string>
+    <string name="sharing_options">Sharing Options</string>
+    <string-array name="default_page_entires">
+        <item name="firstOption">Anonymous has shared N photos</item>
+        <item>Person A has shared N photos</item>
+        <item>Person A has shared N photos with Thumbnails</item>
+        <item>Anonymous has shared N photos with Thumbnails</item>
+    </string-array>
+    <string-array name="default_page_values">
+        <item>Anonymous has shared N photos</item>
+        <item>Person A has shared N photos</item>
+        <item>Person A has shared N photo with Thumbnails</item>
+        <item>Anonymous has shared N photos with Thumbnails</item>
+    </string-array>
+    <string name="default_page_summary">You can choose which view you want to see as default. You can change it anytime from the settings</string>
+    <string name="date">Date</string>
+    <string name="week">Week</string>
+    <string name="time">Time:</string>
+    <string name="user">User:</string>
+    <string name="location">Location:</string>
+    <string name="userInformation">UserInformation</string>
+    <string name="locationInformation">LocationInformation</string>
+    <string name="timeInformation">TimeInformation</string>
+    <string name="downloadButton">Download</string>
+    <string name="shareButton">Share</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="permission_denied_contacts">This app needs to access your google account for proper functioning of the app.</string>
+    <string name="info">info</string>
+    <string name="close">CLOSE</string>
+    <string name="details">Details:</string>
+    <string name="app_version">1.0.0</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <item name="sort_by_date" type="id"/>
+    <item name="sort_by_location" type="id"/>
+</resources>

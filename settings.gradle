@@ -1,0 +1,4 @@
+rootProject.name='Enshare'
+include ':app', ':ebcutils', ':ebclibrary'
+project(':ebcutils').projectDir = new File('deps/ebc/ebcutils')
+project(':ebclibrary').projectDir = new File('deps/ebc/ebclibrary')

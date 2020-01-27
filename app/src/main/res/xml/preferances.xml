@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:id="@+id/anonymous"
+        android:key="anonymus"
+        android:title="@string/anonymus"
+        android:summary="@string/anonymus_summary"
+        android:defaultValue="false" />
+    <EditTextPreference
+        android:id="@+id/userName"
+        android:key="name"
+        android:title="@string/name"
+        android:summary="@string/name_summary"/>
+    <ListPreference
+        android:id="@+id/sharingOptions"
+        android:key="@string/sharing_options"
+        android:title="@string/default_page_title"
+        android:entries="@array/default_page_entires"
+        android:entryValues="@array/default_page_values"
+        android:defaultValue="@string/default_page_default_value"
+        android:summary="@string/default_page_summary" />
+
+</PreferenceScreen>
